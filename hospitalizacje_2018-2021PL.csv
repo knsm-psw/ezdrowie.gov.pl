@@ -1,0 +1,941 @@
+data;kat;hospitalizacje;mcpop;mcpopr
+2018-01;A00-B99 Wybrane choroby zakaźne i pasożytnicze;15950;NA
+2018-01;C00-D48 Nowotwory;58648;NA
+2018-01;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6168;NA
+2018-01;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;20012;NA
+2018-01;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;625;NA
+2018-01;G00-G99 Choroby układu nerwowego;21354;NA
+2018-01;H00-H59 Choroby oka i przydatków oka;33534;NA
+2018-01;H60-H95 Choroby ucha i wyrostka sutkowatego;4231;NA
+2018-01;I00-I99 Choroby układu krążenia;97730;NA
+2018-01;J00-J99 Choroby układu oddechowego;53155;NA
+2018-01;K00-K93 Choroby układu pokarmowego;56847;NA
+2018-01;L00-L99 Choroby skóry i tkanki podskórnej;9760;NA
+2018-01;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;32060;NA
+2018-01;N00-N99 Choroby układu moczowo-płciowego;55879;NA
+2018-01;O00-O99 Ciąża, poród i okres połogu;50217;NA
+2018-01;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13910;NA
+2018-01;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5907;NA
+2018-01;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;17772;NA
+2018-01;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;35166;NA
+2018-01;TOTAL;608312;NA
+2018-01;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;4;NA
+2018-01;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;19383;NA
+2018-02;A00-B99 Wybrane choroby zakaźne i pasożytnicze;14570;NA
+2018-02;C00-D48 Nowotwory;57143;NA
+2018-02;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;5618;NA
+2018-02;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;20072;NA
+2018-02;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;542;NA
+2018-02;G00-G99 Choroby układu nerwowego;20856;NA
+2018-02;H00-H59 Choroby oka i przydatków oka;32328;NA
+2018-02;H60-H95 Choroby ucha i wyrostka sutkowatego;4310;NA
+2018-02;I00-I99 Choroby układu krążenia;92974;NA
+2018-02;J00-J99 Choroby układu oddechowego;56950;NA
+2018-02;K00-K93 Choroby układu pokarmowego;53599;NA
+2018-02;L00-L99 Choroby skóry i tkanki podskórnej;9487;NA
+2018-02;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;33643;NA
+2018-02;N00-N99 Choroby układu moczowo-płciowego;53998;NA
+2018-02;O00-O99 Ciąża, poród i okres połogu;44278;NA
+2018-02;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12263;NA
+2018-02;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5776;NA
+2018-02;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16359;NA
+2018-02;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;31492;NA
+2018-02;TOTAL;582862;NA
+2018-02;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;4;NA
+2018-02;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;16600;NA
+2018-03;A00-B99 Wybrane choroby zakaźne i pasożytnicze;17825;NA
+2018-03;C00-D48 Nowotwory;65025;NA
+2018-03;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6863;NA
+2018-03;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;22916;NA
+2018-03;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;675;NA
+2018-03;G00-G99 Choroby układu nerwowego;23912;NA
+2018-03;H00-H59 Choroby oka i przydatków oka;35453;NA
+2018-03;H60-H95 Choroby ucha i wyrostka sutkowatego;4885;NA
+2018-03;I00-I99 Choroby układu krążenia;106818;NA
+2018-03;J00-J99 Choroby układu oddechowego;61558;NA
+2018-03;K00-K93 Choroby układu pokarmowego;61067;NA
+2018-03;L00-L99 Choroby skóry i tkanki podskórnej;10863;NA
+2018-03;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;38459;NA
+2018-03;N00-N99 Choroby układu moczowo-płciowego;59258;NA
+2018-03;O00-O99 Ciąża, poród i okres połogu;50420;NA
+2018-03;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;14129;NA
+2018-03;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6568;NA
+2018-03;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;18955;NA
+2018-03;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;35675;NA
+2018-03;TOTAL;660203;NA
+2018-03;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;5;NA
+2018-03;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;18874;NA
+2018-04;A00-B99 Wybrane choroby zakaźne i pasożytnicze;16667;NA
+2018-04;C00-D48 Nowotwory;58604;NA
+2018-04;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6224;NA
+2018-04;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;19992;NA
+2018-04;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;615;NA
+2018-04;G00-G99 Choroby układu nerwowego;20909;NA
+2018-04;H00-H59 Choroby oka i przydatków oka;33207;NA
+2018-04;H60-H95 Choroby ucha i wyrostka sutkowatego;4119;NA
+2018-04;I00-I99 Choroby układu krążenia;92943;NA
+2018-04;J00-J99 Choroby układu oddechowego;46268;NA
+2018-04;K00-K93 Choroby układu pokarmowego;54054;NA
+2018-04;L00-L99 Choroby skóry i tkanki podskórnej;9540;NA
+2018-04;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;32590;NA
+2018-04;N00-N99 Choroby układu moczowo-płciowego;55865;NA
+2018-04;O00-O99 Ciąża, poród i okres połogu;46248;NA
+2018-04;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13157;NA
+2018-04;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6178;NA
+2018-04;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16694;NA
+2018-04;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;36127;NA
+2018-04;TOTAL;588233;NA
+2018-04;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;3;NA
+2018-04;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;18229;NA
+2018-05;A00-B99 Wybrane choroby zakaźne i pasożytnicze;16438;NA
+2018-05;C00-D48 Nowotwory;57615;NA
+2018-05;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6399;NA
+2018-05;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;19313;NA
+2018-05;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;630;NA
+2018-05;G00-G99 Choroby układu nerwowego;20722;NA
+2018-05;H00-H59 Choroby oka i przydatków oka;34829;NA
+2018-05;H60-H95 Choroby ucha i wyrostka sutkowatego;4032;NA
+2018-05;I00-I99 Choroby układu krążenia;91302;NA
+2018-05;J00-J99 Choroby układu oddechowego;37606;NA
+2018-05;K00-K93 Choroby układu pokarmowego;53234;NA
+2018-05;L00-L99 Choroby skóry i tkanki podskórnej;9740;NA
+2018-05;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;31933;NA
+2018-05;N00-N99 Choroby układu moczowo-płciowego;53716;NA
+2018-05;O00-O99 Ciąża, poród i okres połogu;47036;NA
+2018-05;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13287;NA
+2018-05;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5986;NA
+2018-05;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16523;NA
+2018-05;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;39009;NA
+2018-05;TOTAL;577752;NA
+2018-05;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;0;NA
+2018-05;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;18402;NA
+2018-06;A00-B99 Wybrane choroby zakaźne i pasożytnicze;16276;NA
+2018-06;C00-D48 Nowotwory;59796;NA
+2018-06;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6445;NA
+2018-06;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;20567;NA
+2018-06;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;619;NA
+2018-06;G00-G99 Choroby układu nerwowego;21533;NA
+2018-06;H00-H59 Choroby oka i przydatków oka;39393;NA
+2018-06;H60-H95 Choroby ucha i wyrostka sutkowatego;4213;NA
+2018-06;I00-I99 Choroby układu krążenia;89159;NA
+2018-06;J00-J99 Choroby układu oddechowego;36296;NA
+2018-06;K00-K93 Choroby układu pokarmowego;54115;NA
+2018-06;L00-L99 Choroby skóry i tkanki podskórnej;10374;NA
+2018-06;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;34073;NA
+2018-06;N00-N99 Choroby układu moczowo-płciowego;53989;NA
+2018-06;O00-O99 Ciąża, poród i okres połogu;48153;NA
+2018-06;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13573;NA
+2018-06;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6083;NA
+2018-06;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;17263;NA
+2018-06;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;39319;NA
+2018-06;TOTAL;590108;NA
+2018-06;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;3;NA
+2018-06;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;18866;NA
+2018-07;A00-B99 Wybrane choroby zakaźne i pasożytnicze;15682;NA
+2018-07;C00-D48 Nowotwory;58826;NA
+2018-07;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6347;NA
+2018-07;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;20445;NA
+2018-07;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;651;NA
+2018-07;G00-G99 Choroby układu nerwowego;20859;NA
+2018-07;H00-H59 Choroby oka i przydatków oka;35554;NA
+2018-07;H60-H95 Choroby ucha i wyrostka sutkowatego;3761;NA
+2018-07;I00-I99 Choroby układu krążenia;90036;NA
+2018-07;J00-J99 Choroby układu oddechowego;34342;NA
+2018-07;K00-K93 Choroby układu pokarmowego;52707;NA
+2018-07;L00-L99 Choroby skóry i tkanki podskórnej;10334;NA
+2018-07;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;32280;NA
+2018-07;N00-N99 Choroby układu moczowo-płciowego;53399;NA
+2018-07;O00-O99 Ciąża, poród i okres połogu;50768;NA
+2018-07;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;14968;NA
+2018-07;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6050;NA
+2018-07;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16107;NA
+2018-07;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;38050;NA
+2018-07;TOTAL;581277;NA
+2018-07;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;4;NA
+2018-07;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;20107;NA
+2018-08;A00-B99 Wybrane choroby zakaźne i pasożytnicze;16168;NA
+2018-08;C00-D48 Nowotwory;56602;NA
+2018-08;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6311;NA
+2018-08;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;20570;NA
+2018-08;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;643;NA
+2018-08;G00-G99 Choroby układu nerwowego;20692;NA
+2018-08;H00-H59 Choroby oka i przydatków oka;34151;NA
+2018-08;H60-H95 Choroby ucha i wyrostka sutkowatego;3948;NA
+2018-08;I00-I99 Choroby układu krążenia;86360;NA
+2018-08;J00-J99 Choroby układu oddechowego;31644;NA
+2018-08;K00-K93 Choroby układu pokarmowego;52021;NA
+2018-08;L00-L99 Choroby skóry i tkanki podskórnej;10451;NA
+2018-08;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;31212;NA
+2018-08;N00-N99 Choroby układu moczowo-płciowego;54038;NA
+2018-08;O00-O99 Ciąża, poród i okres połogu;48778;NA
+2018-08;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13933;NA
+2018-08;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5942;NA
+2018-08;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16652;NA
+2018-08;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;38621;NA
+2018-08;TOTAL;567979;NA
+2018-08;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;8;NA
+2018-08;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;19234;NA
+2018-09;A00-B99 Wybrane choroby zakaźne i pasożytnicze;13451;NA
+2018-09;C00-D48 Nowotwory;57035;NA
+2018-09;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;5935;NA
+2018-09;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;19192;NA
+2018-09;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;666;NA
+2018-09;G00-G99 Choroby układu nerwowego;20855;NA
+2018-09;H00-H59 Choroby oka i przydatków oka;36593;NA
+2018-09;H60-H95 Choroby ucha i wyrostka sutkowatego;3976;NA
+2018-09;I00-I99 Choroby układu krążenia;85666;NA
+2018-09;J00-J99 Choroby układu oddechowego;33904;NA
+2018-09;K00-K93 Choroby układu pokarmowego;51352;NA
+2018-09;L00-L99 Choroby skóry i tkanki podskórnej;9973;NA
+2018-09;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;32630;NA
+2018-09;N00-N99 Choroby układu moczowo-płciowego;51598;NA
+2018-09;O00-O99 Ciąża, poród i okres połogu;47996;NA
+2018-09;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;14054;NA
+2018-09;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6053;NA
+2018-09;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;15763;NA
+2018-09;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;35839;NA
+2018-09;TOTAL;561859;NA
+2018-09;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;1;NA
+2018-09;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;19327;NA
+2018-10;A00-B99 Wybrane choroby zakaźne i pasożytnicze;16592;NA
+2018-10;C00-D48 Nowotwory;65508;NA
+2018-10;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6897;NA
+2018-10;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;22845;NA
+2018-10;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;861;NA
+2018-10;G00-G99 Choroby układu nerwowego;23794;NA
+2018-10;H00-H59 Choroby oka i przydatków oka;41505;NA
+2018-10;H60-H95 Choroby ucha i wyrostka sutkowatego;4582;NA
+2018-10;I00-I99 Choroby układu krążenia;100593;NA
+2018-10;J00-J99 Choroby układu oddechowego;41797;NA
+2018-10;K00-K93 Choroby układu pokarmowego;58896;NA
+2018-10;L00-L99 Choroby skóry i tkanki podskórnej;11309;NA
+2018-10;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;38431;NA
+2018-10;N00-N99 Choroby układu moczowo-płciowego;60130;NA
+2018-10;O00-O99 Ciąża, poród i okres połogu;47240;NA
+2018-10;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;14028;NA
+2018-10;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6630;NA
+2018-10;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;18212;NA
+2018-10;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;38262;NA
+2018-10;TOTAL;636159;NA
+2018-10;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;4;NA
+2018-10;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;18043;NA
+2018-11;A00-B99 Wybrane choroby zakaźne i pasożytnicze;16467;NA
+2018-11;C00-D48 Nowotwory;60355;NA
+2018-11;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6484;NA
+2018-11;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;21215;NA
+2018-11;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;782;NA
+2018-11;G00-G99 Choroby układu nerwowego;22304;NA
+2018-11;H00-H59 Choroby oka i przydatków oka;39940;NA
+2018-11;H60-H95 Choroby ucha i wyrostka sutkowatego;4344;NA
+2018-11;I00-I99 Choroby układu krążenia;94362;NA
+2018-11;J00-J99 Choroby układu oddechowego;40308;NA
+2018-11;K00-K93 Choroby układu pokarmowego;55870;NA
+2018-11;L00-L99 Choroby skóry i tkanki podskórnej;10758;NA
+2018-11;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;36381;NA
+2018-11;N00-N99 Choroby układu moczowo-płciowego;56525;NA
+2018-11;O00-O99 Ciąża, poród i okres połogu;44239;NA
+2018-11;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13025;NA
+2018-11;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6133;NA
+2018-11;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;17400;NA
+2018-11;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;32667;NA
+2018-11;TOTAL;595980;NA
+2018-11;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;3;NA
+2018-11;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;16418;NA
+2018-12;A00-B99 Wybrane choroby zakaźne i pasożytnicze;18035;NA
+2018-12;C00-D48 Nowotwory;52957;NA
+2018-12;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;5730;NA
+2018-12;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;18471;NA
+2018-12;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;600;NA
+2018-12;G00-G99 Choroby układu nerwowego;18990;NA
+2018-12;H00-H59 Choroby oka i przydatków oka;29387;NA
+2018-12;H60-H95 Choroby ucha i wyrostka sutkowatego;3752;NA
+2018-12;I00-I99 Choroby układu krążenia;85824;NA
+2018-12;J00-J99 Choroby układu oddechowego;40288;NA
+2018-12;K00-K93 Choroby układu pokarmowego;50412;NA
+2018-12;L00-L99 Choroby skóry i tkanki podskórnej;9190;NA
+2018-12;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;30470;NA
+2018-12;N00-N99 Choroby układu moczowo-płciowego;47134;NA
+2018-12;O00-O99 Ciąża, poród i okres połogu;44709;NA
+2018-12;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12974;NA
+2018-12;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;4968;NA
+2018-12;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16099;NA
+2018-12;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;32509;NA
+2018-12;TOTAL;538599;NA
+2018-12;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;3;NA
+2018-12;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;16097;NA
+2019-01;A00-B99 Wybrane choroby zakaźne i pasożytnicze;18308;15950
+2019-01;C00-D48 Nowotwory;59351;58648
+2019-01;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6203;6168
+2019-01;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;20420;20012
+2019-01;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;707;625
+2019-01;G00-G99 Choroby układu nerwowego;21179;21354
+2019-01;H00-H59 Choroby oka i przydatków oka;37017;33534
+2019-01;H60-H95 Choroby ucha i wyrostka sutkowatego;4102;4231
+2019-01;I00-I99 Choroby układu krążenia;95444;97730
+2019-01;J00-J99 Choroby układu oddechowego;50208;53155
+2019-01;K00-K93 Choroby układu pokarmowego;55253;56847
+2019-01;L00-L99 Choroby skóry i tkanki podskórnej;10216;9760
+2019-01;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;32581;32060
+2019-01;N00-N99 Choroby układu moczowo-płciowego;56318;55879
+2019-01;O00-O99 Ciąża, poród i okres połogu;46594;50217
+2019-01;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13798;13910
+2019-01;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5958;5907
+2019-01;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;17108;17772
+2019-01;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;34496;35166
+2019-01;TOTAL;602276;608312
+2019-01;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;0;4
+2019-01;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;17015;19383
+2019-02;A00-B99 Wybrane choroby zakaźne i pasożytnicze;17450;14570
+2019-02;C00-D48 Nowotwory;57512;57143
+2019-02;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;5892;5618
+2019-02;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;19858;20072
+2019-02;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;565;542
+2019-02;G00-G99 Choroby układu nerwowego;20405;20856
+2019-02;H00-H59 Choroby oka i przydatków oka;34874;32328
+2019-02;H60-H95 Choroby ucha i wyrostka sutkowatego;4097;4310
+2019-02;I00-I99 Choroby układu krążenia;90886;92974
+2019-02;J00-J99 Choroby układu oddechowego;54337;56950
+2019-02;K00-K93 Choroby układu pokarmowego;52578;53599
+2019-02;L00-L99 Choroby skóry i tkanki podskórnej;9941;9487
+2019-02;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;33353;33643
+2019-02;N00-N99 Choroby układu moczowo-płciowego;54706;53998
+2019-02;O00-O99 Ciąża, poród i okres połogu;42120;44278
+2019-02;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12558;12263
+2019-02;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5818;5776
+2019-02;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16208;16359
+2019-02;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;30794;31492
+2019-02;TOTAL;579034;582862
+2019-02;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;2;4
+2019-02;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;15080;16600
+2019-03;A00-B99 Wybrane choroby zakaźne i pasożytnicze;20809;17825
+2019-03;C00-D48 Nowotwory;63899;65025
+2019-03;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6740;6863
+2019-03;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;21936;22916
+2019-03;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;747;675
+2019-03;G00-G99 Choroby układu nerwowego;23172;23912
+2019-03;H00-H59 Choroby oka i przydatków oka;39120;35453
+2019-03;H60-H95 Choroby ucha i wyrostka sutkowatego;4715;4885
+2019-03;I00-I99 Choroby układu krążenia;99822;106818
+2019-03;J00-J99 Choroby układu oddechowego;50922;61558
+2019-03;K00-K93 Choroby układu pokarmowego;59553;61067
+2019-03;L00-L99 Choroby skóry i tkanki podskórnej;11036;10863
+2019-03;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;38223;38459
+2019-03;N00-N99 Choroby układu moczowo-płciowego;60686;59258
+2019-03;O00-O99 Ciąża, poród i okres połogu;45498;50420
+2019-03;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13471;14129
+2019-03;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6486;6568
+2019-03;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;18370;18955
+2019-03;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;32610;35675
+2019-03;TOTAL;634349;660203
+2019-03;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;2;5
+2019-03;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;16532;18874
+2019-04;A00-B99 Wybrane choroby zakaźne i pasożytnicze;21048;16667
+2019-04;C00-D48 Nowotwory;61143;58604
+2019-04;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6600;6224
+2019-04;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;20561;19992
+2019-04;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;655;615
+2019-04;G00-G99 Choroby układu nerwowego;21165;20909
+2019-04;H00-H59 Choroby oka i przydatków oka;39201;33207
+2019-04;H60-H95 Choroby ucha i wyrostka sutkowatego;4178;4119
+2019-04;I00-I99 Choroby układu krążenia;94698;92943
+2019-04;J00-J99 Choroby układu oddechowego;42324;46268
+2019-04;K00-K93 Choroby układu pokarmowego;55463;54054
+2019-04;L00-L99 Choroby skóry i tkanki podskórnej;10849;9540
+2019-04;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;34914;32590
+2019-04;N00-N99 Choroby układu moczowo-płciowego;56256;55865
+2019-04;O00-O99 Ciąża, poród i okres połogu;44305;46248
+2019-04;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13553;13157
+2019-04;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6164;6178
+2019-04;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16883;16694
+2019-04;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;35074;36127
+2019-04;TOTAL;601623;588233
+2019-04;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;8;3
+2019-04;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;16581;18229
+2019-05;A00-B99 Wybrane choroby zakaźne i pasożytnicze;18416;16438
+2019-05;C00-D48 Nowotwory;60488;57615
+2019-05;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6749;6399
+2019-05;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;20677;19313
+2019-05;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;715;630
+2019-05;G00-G99 Choroby układu nerwowego;21494;20722
+2019-05;H00-H59 Choroby oka i przydatków oka;42365;34829
+2019-05;H60-H95 Choroby ucha i wyrostka sutkowatego;4076;4032
+2019-05;I00-I99 Choroby układu krążenia;93906;91302
+2019-05;J00-J99 Choroby układu oddechowego;37402;37606
+2019-05;K00-K93 Choroby układu pokarmowego;55586;53234
+2019-05;L00-L99 Choroby skóry i tkanki podskórnej;10388;9740
+2019-05;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;33826;31933
+2019-05;N00-N99 Choroby układu moczowo-płciowego;56843;53716
+2019-05;O00-O99 Ciąża, poród i okres połogu;44723;47036
+2019-05;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13615;13287
+2019-05;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6072;5986
+2019-05;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;17349;16523
+2019-05;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;34966;39009
+2019-05;TOTAL;595928;577752
+2019-05;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;5;0
+2019-05;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;16267;18402
+2019-06;A00-B99 Wybrane choroby zakaźne i pasożytnicze;16185;16276
+2019-06;C00-D48 Nowotwory;56329;59796
+2019-06;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6419;6445
+2019-06;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;19815;20567
+2019-06;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;566;619
+2019-06;G00-G99 Choroby układu nerwowego;19440;21533
+2019-06;H00-H59 Choroby oka i przydatków oka;38721;39393
+2019-06;H60-H95 Choroby ucha i wyrostka sutkowatego;3699;4213
+2019-06;I00-I99 Choroby układu krążenia;83553;89159
+2019-06;J00-J99 Choroby układu oddechowego;33924;36296
+2019-06;K00-K93 Choroby układu pokarmowego;50769;54115
+2019-06;L00-L99 Choroby skóry i tkanki podskórnej;10022;10374
+2019-06;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;31922;34073
+2019-06;N00-N99 Choroby układu moczowo-płciowego;52042;53989
+2019-06;O00-O99 Ciąża, poród i okres połogu;44116;48153
+2019-06;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13327;13573
+2019-06;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5746;6083
+2019-06;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16018;17263
+2019-06;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;36005;39319
+2019-06;TOTAL;555067;590108
+2019-06;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;8;3
+2019-06;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;16441;18866
+2019-07;A00-B99 Wybrane choroby zakaźne i pasożytnicze;15737;15682
+2019-07;C00-D48 Nowotwory;61920;58826
+2019-07;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6728;6347
+2019-07;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;21796;20445
+2019-07;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;626;651
+2019-07;G00-G99 Choroby układu nerwowego;20920;20859
+2019-07;H00-H59 Choroby oka i przydatków oka;42040;35554
+2019-07;H60-H95 Choroby ucha i wyrostka sutkowatego;3721;3761
+2019-07;I00-I99 Choroby układu krążenia;90234;90036
+2019-07;J00-J99 Choroby układu oddechowego;32432;34342
+2019-07;K00-K93 Choroby układu pokarmowego;53818;52707
+2019-07;L00-L99 Choroby skóry i tkanki podskórnej;10779;10334
+2019-07;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;33699;32280
+2019-07;N00-N99 Choroby układu moczowo-płciowego;56260;53399
+2019-07;O00-O99 Ciąża, poród i okres połogu;49222;50768
+2019-07;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;15126;14968
+2019-07;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6554;6050
+2019-07;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16934;16107
+2019-07;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;38893;38050
+2019-07;TOTAL;596273;581277
+2019-07;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;3;4
+2019-07;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;18831;20107
+2019-08;A00-B99 Wybrane choroby zakaźne i pasożytnicze;14294;16168
+2019-08;C00-D48 Nowotwory;56167;56602
+2019-08;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6377;6311
+2019-08;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;19701;20570
+2019-08;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;696;643
+2019-08;G00-G99 Choroby układu nerwowego;19735;20692
+2019-08;H00-H59 Choroby oka i przydatków oka;36718;34151
+2019-08;H60-H95 Choroby ucha i wyrostka sutkowatego;3441;3948
+2019-08;I00-I99 Choroby układu krążenia;84365;86360
+2019-08;J00-J99 Choroby układu oddechowego;29218;31644
+2019-08;K00-K93 Choroby układu pokarmowego;49997;52021
+2019-08;L00-L99 Choroby skóry i tkanki podskórnej;10055;10451
+2019-08;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;30303;31212
+2019-08;N00-N99 Choroby układu moczowo-płciowego;52230;54038
+2019-08;O00-O99 Ciąża, poród i okres połogu;47109;48778
+2019-08;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;14865;13933
+2019-08;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6023;5942
+2019-08;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;15936;16652
+2019-08;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;37366;38621
+2019-08;TOTAL;552420;567979
+2019-08;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;5;8
+2019-08;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;17819;19234
+2019-09;A00-B99 Wybrane choroby zakaźne i pasożytnicze;13996;13451
+2019-09;C00-D48 Nowotwory;58870;57035
+2019-09;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;5986;5935
+2019-09;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;19265;19192
+2019-09;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;650;666
+2019-09;G00-G99 Choroby układu nerwowego;19846;20855
+2019-09;H00-H59 Choroby oka i przydatków oka;41831;36593
+2019-09;H60-H95 Choroby ucha i wyrostka sutkowatego;3693;3976
+2019-09;I00-I99 Choroby układu krążenia;84436;85666
+2019-09;J00-J99 Choroby układu oddechowego;32037;33904
+2019-09;K00-K93 Choroby układu pokarmowego;51063;51352
+2019-09;L00-L99 Choroby skóry i tkanki podskórnej;9964;9973
+2019-09;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;33122;32630
+2019-09;N00-N99 Choroby układu moczowo-płciowego;53039;51598
+2019-09;O00-O99 Ciąża, poród i okres połogu;45702;47996
+2019-09;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;14482;14054
+2019-09;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6132;6053
+2019-09;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16168;15763
+2019-09;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;34984;35839
+2019-09;TOTAL;563055;561859
+2019-09;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;4;1
+2019-09;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;17785;19327
+2019-10;A00-B99 Wybrane choroby zakaźne i pasożytnicze;16522;16592
+2019-10;C00-D48 Nowotwory;66969;65508
+2019-10;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6823;6897
+2019-10;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;22594;22845
+2019-10;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;821;861
+2019-10;G00-G99 Choroby układu nerwowego;23291;23794
+2019-10;H00-H59 Choroby oka i przydatków oka;46873;41505
+2019-10;H60-H95 Choroby ucha i wyrostka sutkowatego;4425;4582
+2019-10;I00-I99 Choroby układu krążenia;98742;100593
+2019-10;J00-J99 Choroby układu oddechowego;40628;41797
+2019-10;K00-K93 Choroby układu pokarmowego;57963;58896
+2019-10;L00-L99 Choroby skóry i tkanki podskórnej;11067;11309
+2019-10;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;38659;38431
+2019-10;N00-N99 Choroby układu moczowo-płciowego;60154;60130
+2019-10;O00-O99 Ciąża, poród i okres połogu;44440;47240
+2019-10;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13741;14028
+2019-10;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6964;6630
+2019-10;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;18857;18212
+2019-10;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;36742;38262
+2019-10;TOTAL;632948;636159
+2019-10;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;5;4
+2019-10;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;16668;18043
+2019-11;A00-B99 Wybrane choroby zakaźne i pasożytnicze;15108;16467
+2019-11;C00-D48 Nowotwory;58011;60355
+2019-11;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;5905;6484
+2019-11;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;19635;21215
+2019-11;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;684;782
+2019-11;G00-G99 Choroby układu nerwowego;20339;22304
+2019-11;H00-H59 Choroby oka i przydatków oka;41509;39940
+2019-11;H60-H95 Choroby ucha i wyrostka sutkowatego;3664;4344
+2019-11;I00-I99 Choroby układu krążenia;85423;94362
+2019-11;J00-J99 Choroby układu oddechowego;36000;40308
+2019-11;K00-K93 Choroby układu pokarmowego;51158;55870
+2019-11;L00-L99 Choroby skóry i tkanki podskórnej;9463;10758
+2019-11;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;34383;36381
+2019-11;N00-N99 Choroby układu moczowo-płciowego;52836;56525
+2019-11;O00-O99 Ciąża, poród i okres połogu;41015;44239
+2019-11;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12758;13025
+2019-11;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5715;6133
+2019-11;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16969;17400
+2019-11;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;30142;32667
+2019-11;TOTAL;555774;595980
+2019-11;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;2;3
+2019-11;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;15055;16418
+2019-12;A00-B99 Wybrane choroby zakaźne i pasożytnicze;15865;18035
+2019-12;C00-D48 Nowotwory;54858;52957
+2019-12;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;5591;5730
+2019-12;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;18340;18471
+2019-12;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;549;600
+2019-12;G00-G99 Choroby układu nerwowego;18312;18990
+2019-12;H00-H59 Choroby oka i przydatków oka;33358;29387
+2019-12;H60-H95 Choroby ucha i wyrostka sutkowatego;3438;3752
+2019-12;I00-I99 Choroby układu krążenia;82361;85824
+2019-12;J00-J99 Choroby układu oddechowego;37280;40288
+2019-12;K00-K93 Choroby układu pokarmowego;48314;50412
+2019-12;L00-L99 Choroby skóry i tkanki podskórnej;8903;9190
+2019-12;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;30268;30470
+2019-12;N00-N99 Choroby układu moczowo-płciowego;46978;47134
+2019-12;O00-O99 Ciąża, poród i okres połogu;41847;44709
+2019-12;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13333;12974
+2019-12;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;4872;4968
+2019-12;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16145;16099
+2019-12;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;30860;32509
+2019-12;TOTAL;526213;538599
+2019-12;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;4;3
+2019-12;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;14737;16097
+2020-01;A00-B99 Wybrane choroby zakaźne i pasożytnicze;14604;18366
+2020-01;C00-D48 Nowotwory;58697;59798
+2020-01;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;6168;6053
+2020-01;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;19072;20563
+2020-01;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;599;707
+2020-01;G00-G99 Choroby układu nerwowego;20032;21263
+2020-01;H00-H59 Choroby oka i przydatków oka;38940;36964
+2020-01;H60-H95 Choroby ucha i wyrostka sutkowatego;3830;4114
+2020-01;I00-I99 Choroby układu krążenia;89648;95808
+2020-01;J00-J99 Choroby układu oddechowego;44422;50589
+2020-01;K00-K93 Choroby układu pokarmowego;53174;55623
+2020-01;L00-L99 Choroby skóry i tkanki podskórnej;9779;10260
+2020-01;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;31663;32784
+2020-01;N00-N99 Choroby układu moczowo-płciowego;54523;56221
+2020-01;O00-O99 Ciąża, poród i okres połogu;44766;46716
+2020-01;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13935;13819
+2020-01;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6050;5987
+2020-01;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;16006;17110
+2020-01;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;30772;34763
+2020-01;TOTAL;573448;604572
+2020-01;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;3;0
+2020-01;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;16765;17064
+2020-02;A00-B99 Wybrane choroby zakaźne i pasożytnicze;13895;17511
+2020-02;C00-D48 Nowotwory;61447;58038
+2020-02;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;5730;5786
+2020-02;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;19724;19980
+2020-02;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;565;566
+2020-02;G00-G99 Choroby układu nerwowego;19996;20514
+2020-02;H00-H59 Choroby oka i przydatków oka;39734;34847
+2020-02;H60-H95 Choroby ucha i wyrostka sutkowatego;3958;4117
+2020-02;I00-I99 Choroby układu krążenia;89439;91323
+2020-02;J00-J99 Choroby układu oddechowego;51050;54763
+2020-02;K00-K93 Choroby układu pokarmowego;52870;52948
+2020-02;L00-L99 Choroby skóry i tkanki podskórnej;10093;9982
+2020-02;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;35004;33600
+2020-02;N00-N99 Choroby układu moczowo-płciowego;55424;54628
+2020-02;O00-O99 Ciąża, poród i okres połogu;40288;42225
+2020-02;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12515;12582
+2020-02;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6151;5858
+2020-02;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;15391;16223
+2020-02;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;28883;31049
+2020-02;TOTAL;576795;581650
+2020-02;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;5;2
+2020-02;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;14633;15108
+2020-03;A00-B99 Wybrane choroby zakaźne i pasożytnicze;10416;20894
+2020-03;C00-D48 Nowotwory;50001;64426
+2020-03;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;4325;6571
+2020-03;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;12590;22057
+2020-03;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;343;751
+2020-03;G00-G99 Choroby układu nerwowego;13028;23332
+2020-03;H00-H59 Choroby oka i przydatków oka;20751;39158
+2020-03;H60-H95 Choroby ucha i wyrostka sutkowatego;2546;4738
+2020-03;I00-I99 Choroby układu krążenia;67825;100441
+2020-03;J00-J99 Choroby układu oddechowego;33945;51312
+2020-03;K00-K93 Choroby układu pokarmowego;36370;59931
+2020-03;L00-L99 Choroby skóry i tkanki podskórnej;6444;11097
+2020-03;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;22489;38492
+2020-03;N00-N99 Choroby układu moczowo-płciowego;36303;60638
+2020-03;O00-O99 Ciąża, poród i okres połogu;37243;45695
+2020-03;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12358;13511
+2020-03;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;3972;6524
+2020-03;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;10459;18393
+2020-03;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;24179;32859
+2020-03;TOTAL;419816;637403
+2020-03;U00-U99 Kody specjalne;1;0
+2020-03;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;2;3
+2020-03;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;14226;16580
+2020-04;A00-B99 Wybrane choroby zakaźne i pasożytnicze;4498;21166
+2020-04;C00-D48 Nowotwory;31189;61757
+2020-04;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;2305;6419
+2020-04;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;5171;20742
+2020-04;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;101;656
+2020-04;G00-G99 Choroby układu nerwowego;5304;21323
+2020-04;H00-H59 Choroby oka i przydatków oka;4461;39355
+2020-04;H60-H95 Choroby ucha i wyrostka sutkowatego;824;4199
+2020-04;I00-I99 Choroby układu krążenia;37821;95528
+2020-04;J00-J99 Choroby układu oddechowego;8503;42669
+2020-04;K00-K93 Choroby układu pokarmowego;18248;55936
+2020-04;L00-L99 Choroby skóry i tkanki podskórnej;2526;10925
+2020-04;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;5420;35281
+2020-04;N00-N99 Choroby układu moczowo-płciowego;16743;56460
+2020-04;O00-O99 Ciąża, poród i okres połogu;33668;44672
+2020-04;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;11459;13648
+2020-04;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;1904;6215
+2020-04;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;5184;16935
+2020-04;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;17837;35485
+2020-04;TOTAL;226715;606054
+2020-04;U00-U99 Kody specjalne;1;0
+2020-04;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;0;8
+2020-04;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;13548;16675
+2020-05;A00-B99 Wybrane choroby zakaźne i pasożytnicze;5047;18583
+2020-05;C00-D48 Nowotwory;40206;61519
+2020-05;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;3490;6588
+2020-05;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;9406;20918
+2020-05;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;261;723
+2020-05;G00-G99 Choroby układu nerwowego;9274;21738
+2020-05;H00-H59 Choroby oka i przydatków oka;17188;42513
+2020-05;H60-H95 Choroby ucha i wyrostka sutkowatego;1398;4117
+2020-05;I00-I99 Choroby układu krążenia;54926;95023
+2020-05;J00-J99 Choroby układu oddechowego;10948;37679
+2020-05;K00-K93 Choroby układu pokarmowego;28573;56204
+2020-05;L00-L99 Choroby skóry i tkanki podskórnej;4150;10540
+2020-05;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;14146;34238
+2020-05;N00-N99 Choroby układu moczowo-płciowego;28744;57121
+2020-05;O00-O99 Ciąża, poród i okres połogu;36569;45153
+2020-05;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12426;13684
+2020-05;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;3610;6153
+2020-05;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;7653;17448
+2020-05;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;24378;35504
+2020-05;TOTAL;326807;601823
+2020-05;U00-U99 Kody specjalne;4;0
+2020-05;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;2;5
+2020-05;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;14408;16372
+2020-06;A00-B99 Wybrane choroby zakaźne i pasożytnicze;6911;16321
+2020-06;C00-D48 Nowotwory;47207;57092
+2020-06;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;4239;6220
+2020-06;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;13783;19972
+2020-06;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;408;577
+2020-06;G00-G99 Choroby układu nerwowego;13491;19633
+2020-06;H00-H59 Choroby oka i przydatków oka;28531;38771
+2020-06;H60-H95 Choroby ucha i wyrostka sutkowatego;2153;3765
+2020-06;I00-I99 Choroby układu krążenia;68228;84424
+2020-06;J00-J99 Choroby układu oddechowego;16168;34162
+2020-06;K00-K93 Choroby układu pokarmowego;38504;51272
+2020-06;L00-L99 Choroby skóry i tkanki podskórnej;6398;10121
+2020-06;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;24241;32197
+2020-06;N00-N99 Choroby układu moczowo-płciowego;40172;52206
+2020-06;O00-O99 Ciąża, poród i okres połogu;37004;44477
+2020-06;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12408;13391
+2020-06;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5115;5808
+2020-06;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;9984;16124
+2020-06;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;30116;36489
+2020-06;TOTAL;419411;559547
+2020-06;U00-U99 Kody specjalne;1;0
+2020-06;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;3;6
+2020-06;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;14346;16519
+2020-07;A00-B99 Wybrane choroby zakaźne i pasożytnicze;8558;15894
+2020-07;C00-D48 Nowotwory;53701;62440
+2020-07;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;5307;6580
+2020-07;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;16783;22062
+2020-07;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;518;634
+2020-07;G00-G99 Choroby układu nerwowego;15595;21081
+2020-07;H00-H59 Choroby oka i przydatków oka;33357;42217
+2020-07;H60-H95 Choroby ucha i wyrostka sutkowatego;2542;3748
+2020-07;I00-I99 Choroby układu krążenia;73688;90920
+2020-07;J00-J99 Choroby układu oddechowego;20566;32657
+2020-07;K00-K93 Choroby układu pokarmowego;44570;54116
+2020-07;L00-L99 Choroby skóry i tkanki podskórnej;8089;10898
+2020-07;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;29311;33872
+2020-07;N00-N99 Choroby układu moczowo-płciowego;47535;56397
+2020-07;O00-O99 Ciąża, poród i okres połogu;40542;49370
+2020-07;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13444;15149
+2020-07;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;6167;6641
+2020-07;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;11926;17028
+2020-07;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;33752;39219
+2020-07;TOTAL;481507;599824
+2020-07;U00-U99 Kody specjalne;80;0
+2020-07;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;1;3
+2020-07;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;15475;18898
+2020-08;A00-B99 Wybrane choroby zakaźne i pasożytnicze;8430;14322
+2020-08;C00-D48 Nowotwory;46854;56380
+2020-08;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;4362;6248
+2020-08;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;14267;19754
+2020-08;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;391;697
+2020-08;G00-G99 Choroby układu nerwowego;13048;19772
+2020-08;H00-H59 Choroby oka i przydatków oka;29846;36672
+2020-08;H60-H95 Choroby ucha i wyrostka sutkowatego;2235;3454
+2020-08;I00-I99 Choroby układu krążenia;65327;84593
+2020-08;J00-J99 Choroby układu oddechowego;20174;29371
+2020-08;K00-K93 Choroby układu pokarmowego;38930;50116
+2020-08;L00-L99 Choroby skóry i tkanki podskórnej;6935;10076
+2020-08;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;25180;30344
+2020-08;N00-N99 Choroby układu moczowo-płciowego;41625;52240
+2020-08;O00-O99 Ciąża, poród i okres połogu;38192;47195
+2020-08;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12854;14882
+2020-08;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;4903;6054
+2020-08;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;10554;15979
+2020-08;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;31083;37499
+2020-08;TOTAL;430205;553531
+2020-08;U00-U99 Kody specjalne;173;0
+2020-08;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;2;5
+2020-08;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;14840;17878
+2020-09;A00-B99 Wybrane choroby zakaźne i pasożytnicze;8205;14005
+2020-09;C00-D48 Nowotwory;53079;58935
+2020-09;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;4943;5986
+2020-09;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;15987;19274
+2020-09;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;469;651
+2020-09;G00-G99 Choroby układu nerwowego;15311;19859
+2020-09;H00-H59 Choroby oka i przydatków oka;35773;41844
+2020-09;H60-H95 Choroby ucha i wyrostka sutkowatego;2644;3693
+2020-09;I00-I99 Choroby układu krążenia;74831;84497
+2020-09;J00-J99 Choroby układu oddechowego;24045;32058
+2020-09;K00-K93 Choroby układu pokarmowego;43928;51101
+2020-09;L00-L99 Choroby skóry i tkanki podskórnej;7854;9975
+2020-09;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;29855;33157
+2020-09;N00-N99 Choroby układu moczowo-płciowego;47034;53086
+2020-09;O00-O99 Ciąża, poród i okres połogu;38716;45732
+2020-09;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;13111;14484
+2020-09;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5939;6135
+2020-09;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;11668;16184
+2020-09;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;32039;35023
+2020-09;TOTAL;481267;563473
+2020-09;U00-U99 Kody specjalne;343;0
+2020-09;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;2;4
+2020-09;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;15491;17790
+2020-10;A00-B99 Wybrane choroby zakaźne i pasożytnicze;6921;16531
+2020-10;C00-D48 Nowotwory;48001;67055
+2020-10;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;4256;6828
+2020-10;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;13066;22615
+2020-10;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;439;821
+2020-10;G00-G99 Choroby układu nerwowego;12035;23293
+2020-10;H00-H59 Choroby oka i przydatków oka;31438;46897
+2020-10;H60-H95 Choroby ucha i wyrostka sutkowatego;2320;4426
+2020-10;I00-I99 Choroby układu krążenia;61989;98817
+2020-10;J00-J99 Choroby układu oddechowego;21834;40645
+2020-10;K00-K93 Choroby układu pokarmowego;35640;57977
+2020-10;L00-L99 Choroby skóry i tkanki podskórnej;6402;11073
+2020-10;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;24297;38721
+2020-10;N00-N99 Choroby układu moczowo-płciowego;39091;60171
+2020-10;O00-O99 Ciąża, poród i okres połogu;35170;44457
+2020-10;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12425;13746
+2020-10;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5138;6968
+2020-10;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;10050;18862
+2020-10;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;26063;36759
+2020-10;TOTAL;411424;633341
+2020-10;U00-U99 Kody specjalne;1185;0
+2020-10;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;2;5
+2020-10;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;13662;16674
+2020-11;A00-B99 Wybrane choroby zakaźne i pasożytnicze;4805;15147
+2020-11;C00-D48 Nowotwory;37709;58214
+2020-11;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;3180;5921
+2020-11;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;8043;19691
+2020-11;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;296;684
+2020-11;G00-G99 Choroby układu nerwowego;7538;20404
+2020-11;H00-H59 Choroby oka i przydatków oka;26182;41736
+2020-11;H60-H95 Choroby ucha i wyrostka sutkowatego;1616;3674
+2020-11;I00-I99 Choroby układu krążenia;43597;85623
+2020-11;J00-J99 Choroby układu oddechowego;15953;36096
+2020-11;K00-K93 Choroby układu pokarmowego;23960;51318
+2020-11;L00-L99 Choroby skóry i tkanki podskórnej;4072;9501
+2020-11;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;14332;34529
+2020-11;N00-N99 Choroby układu moczowo-płciowego;26865;53068
+2020-11;O00-O99 Ciąża, poród i okres połogu;31219;41114
+2020-11;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;11140;12796
+2020-11;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;3950;5756
+2020-11;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;6839;17010
+2020-11;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;19394;30206
+2020-11;TOTAL;304620;557629
+2020-11;U00-U99 Kody specjalne;1512;0
+2020-11;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;1;2
+2020-11;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;12417;15139
+2020-12;A00-B99 Wybrane choroby zakaźne i pasożytnicze;5894;15476
+2020-12;C00-D48 Nowotwory;42082;54344
+2020-12;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;3673;5310
+2020-12;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;9476;17869
+2020-12;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;232;480
+2020-12;G00-G99 Choroby układu nerwowego;9462;18132
+2020-12;H00-H59 Choroby oka i przydatków oka;25434;33298
+2020-12;H60-H95 Choroby ucha i wyrostka sutkowatego;1762;3319
+2020-12;I00-I99 Choroby układu krążenia;53930;81999
+2020-12;J00-J99 Choroby układu oddechowego;16806;37175
+2020-12;K00-K93 Choroby układu pokarmowego;29299;48152
+2020-12;L00-L99 Choroby skóry i tkanki podskórnej;4513;8621
+2020-12;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;18105;30131
+2020-12;N00-N99 Choroby układu moczowo-płciowego;32178;46827
+2020-12;O00-O99 Ciąża, poród i okres połogu;31531;41816
+2020-12;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;10546;13348
+2020-12;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;3923;4261
+2020-12;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;7816;15442
+2020-12;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;22757;30264
+2020-12;TOTAL;341547;520727
+2020-12;U00-U99 Kody specjalne;813;0
+2020-12;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;0;0
+2020-12;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;11315;14463
+2021-01;A00-B99 Wybrane choroby zakaźne i pasożytnicze;5957;14411
+2021-01;C00-D48 Nowotwory;41479;58851
+2021-01;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;3617;5986
+2021-01;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;10443;18905
+2021-01;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;294;540
+2021-01;G00-G99 Choroby układu nerwowego;10083;20272
+2021-01;H00-H59 Choroby oka i przydatków oka;28122;39354
+2021-01;H60-H95 Choroby ucha i wyrostka sutkowatego;1884;3757
+2021-01;I00-I99 Choroby układu krążenia;54766;90381
+2021-01;J00-J99 Choroby układu oddechowego;16856;44812
+2021-01;K00-K93 Choroby układu pokarmowego;32685;53741
+2021-01;L00-L99 Choroby skóry i tkanki podskórnej;5124;9611
+2021-01;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;20044;31802
+2021-01;N00-N99 Choroby układu moczowo-płciowego;35762;55173
+2021-01;O00-O99 Ciąża, poród i okres połogu;33142;45290
+2021-01;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;11279;14079
+2021-01;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;4320;5492
+2021-01;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;8489;15542
+2021-01;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;23514;30769
+2021-01;TOTAL;360707;575413
+2021-01;U00-U99 Kody specjalne;597;0
+2021-01;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;0;0
+2021-01;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;12250;16645
+2021-02;A00-B99 Wybrane choroby zakaźne i pasożytnicze;7249;13700
+2021-02;C00-D48 Nowotwory;46917;61232
+2021-02;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;3942;5519
+2021-02;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;13373;19423
+2021-02;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;389;492
+2021-02;G00-G99 Choroby układu nerwowego;12130;19932
+2021-02;H00-H59 Choroby oka i przydatków oka;31833;40000
+2021-02;H60-H95 Choroby ucha i wyrostka sutkowatego;2271;3868
+2021-02;I00-I99 Choroby układu krążenia;61437;89625
+2021-02;J00-J99 Choroby układu oddechowego;19980;51235
+2021-02;K00-K93 Choroby układu pokarmowego;37721;53169
+2021-02;L00-L99 Choroby skóry i tkanki podskórnej;6441;9905
+2021-02;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;25708;35066
+2021-02;N00-N99 Choroby układu moczowo-płciowego;41257;55821
+2021-02;O00-O99 Ciąża, poród i okres połogu;32685;40549
+2021-02;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;11563;12573
+2021-02;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5147;5545
+2021-02;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;9607;14894
+2021-02;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;25306;28658
+2021-02;TOTAL;407099;575580
+2021-02;U00-U99 Kody specjalne;479;0
+2021-02;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;0;0
+2021-02;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;11664;14374
+2021-03;A00-B99 Wybrane choroby zakaźne i pasożytnicze;9327;9857
+2021-03;C00-D48 Nowotwory;53273;50014
+2021-03;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;4722;4111
+2021-03;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;14655;12409
+2021-03;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;425;288
+2021-03;G00-G99 Choroby układu nerwowego;13916;13051
+2021-03;H00-H59 Choroby oka i przydatków oka;35677;20835
+2021-03;H60-H95 Choroby ucha i wyrostka sutkowatego;2967;2470
+2021-03;I00-I99 Choroby układu krążenia;67525;68366
+2021-03;J00-J99 Choroby układu oddechowego;24645;34109
+2021-03;K00-K93 Choroby układu pokarmowego;40865;36566
+2021-03;L00-L99 Choroby skóry i tkanki podskórnej;7278;6167
+2021-03;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;29332;22420
+2021-03;N00-N99 Choroby układu moczowo-płciowego;45979;36646
+2021-03;O00-O99 Ciąża, poród i okres połogu;35723;37443
+2021-03;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12786;12437
+2021-03;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5623;3450
+2021-03;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;10851;9860
+2021-03;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;25545;23867
+2021-03;TOTAL;454402;418344
+2021-03;U00-U99 Kody specjalne;497;0
+2021-03;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;0;0
+2021-03;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;12791;13978
+2021-04;A00-B99 Wybrane choroby zakaźne i pasożytnicze;7407;4066
+2021-04;C00-D48 Nowotwory;45626;31058
+2021-04;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;4211;2081
+2021-04;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;11617;4915
+2021-04;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;340;44
+2021-04;G00-G99 Choroby układu nerwowego;11058;5272
+2021-04;H00-H59 Choroby oka i przydatków oka;30119;4446
+2021-04;H60-H95 Choroby ucha i wyrostka sutkowatego;1999;728
+2021-04;I00-I99 Choroby układu krążenia;57589;37783
+2021-04;J00-J99 Choroby układu oddechowego;20248;8359
+2021-04;K00-K93 Choroby układu pokarmowego;32648;18317
+2021-04;L00-L99 Choroby skóry i tkanki podskórnej;5710;2260
+2021-04;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;21540;5282
+2021-04;N00-N99 Choroby układu moczowo-płciowego;37517;16783
+2021-04;O00-O99 Ciąża, poród i okres połogu;33070;33939
+2021-04;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12067;11565
+2021-04;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;4852;1671
+2021-04;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;9101;4460
+2021-04;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;23132;17452
+2021-04;TOTAL;382011;223978
+2021-04;U00-U99 Kody specjalne;414;0
+2021-04;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;0;0
+2021-04;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;11746;13497
+2021-05;A00-B99 Wybrane choroby zakaźne i pasożytnicze;9479;4808
+2021-05;C00-D48 Nowotwory;49190;40286
+2021-05;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;5669;3309
+2021-05;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;13548;9127
+2021-05;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;386;187
+2021-05;G00-G99 Choroby układu nerwowego;12841;9267
+2021-05;H00-H59 Choroby oka i przydatków oka;32469;17365
+2021-05;H60-H95 Choroby ucha i wyrostka sutkowatego;2393;1338
+2021-05;I00-I99 Choroby układu krążenia;64443;55452
+2021-05;J00-J99 Choroby układu oddechowego;21678;10929
+2021-05;K00-K93 Choroby układu pokarmowego;38362;28795
+2021-05;L00-L99 Choroby skóry i tkanki podskórnej;6692;3922
+2021-05;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;25327;14146
+2021-05;N00-N99 Choroby układu moczowo-płciowego;43148;28879
+2021-05;O00-O99 Ciąża, poród i okres połogu;34405;36890
+2021-05;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12382;12498
+2021-05;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5316;3254
+2021-05;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;10683;7009
+2021-05;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;27831;24087
+2021-05;TOTAL;428767;325907
+2021-05;U00-U99 Kody specjalne;201;0
+2021-05;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;0;0
+2021-05;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;12324;14359
+2021-06;A00-B99 Wybrane choroby zakaźne i pasożytnicze;12337;6672
+2021-06;C00-D48 Nowotwory;52325;47552
+2021-06;D50-D89 Choroby krwi i narządów krwiotwórczych oraz wybrane choroby przebiegające z udziałem mechanizmów immunologicznych;7018;4065
+2021-06;E00-E90 Zaburzenia wydzielania wewnętrznego, stanu odżywienia i przemian metabolicznych;15990;13702
+2021-06;F00-F99 Zaburzenia psychiczne i zaburzenia zachowania;526;342
+2021-06;G00-G99 Choroby układu nerwowego;15264;13503
+2021-06;H00-H59 Choroby oka i przydatków oka;34396;28787
+2021-06;H60-H95 Choroby ucha i wyrostka sutkowatego;3196;2083
+2021-06;I00-I99 Choroby układu krążenia;73783;69362
+2021-06;J00-J99 Choroby układu oddechowego;27707;16278
+2021-06;K00-K93 Choroby układu pokarmowego;44617;38964
+2021-06;L00-L99 Choroby skóry i tkanki podskórnej;7599;6244
+2021-06;M00-M99 Choroby układu mięśniowo-szkieletowego i tkanki łącznej;27867;24363
+2021-06;N00-N99 Choroby układu moczowo-płciowego;47852;40549
+2021-06;O00-O99 Ciąża, poród i okres połogu;34200;37634
+2021-06;P00-P96 Wybrane stany rozpoczynające się w okresie okołoporodowym;12165;12549
+2021-06;Q00-Q99 Wady rozwojowe wrodzone, zniekształcenia i aberracje chromosomowe;5428;4558
+2021-06;R00-R99 Objawy, cechy chorobowe oraz nieprawidłowe wyniki badań klinicznych i laboratoryjnych niesklasyfikowane gdzie indziej;12630;9433
+2021-06;S00-T98 Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych;32020;30039
+2021-06;TOTAL;479190;421144
+2021-06;U00-U99 Kody specjalne;18;0
+2021-06;V01-Y98 Zewnętrzne przyczyny zachorowania i zgonu;0;0
+2021-06;Z00-Z99 Czynniki wpływające na stan zdrowia i kontakt ze służbą zdrowia;12252;14465

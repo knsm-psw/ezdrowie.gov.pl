@@ -1,0 +1,13 @@
+## Pliki 2019_*csv 2020_*csv 2021_*csv
+
+Zawierają dane wyeksportowane z arkuszy kalkulacyjnych dane dotyczące liczby hospitalizacji
+dla 2018 dane ustalone z plików z roku 2019 które zawierają jako bazę porównań
+odpowiedni miesiąc z roku poprzedniego
+
+## Pliki hospitalizacje_2018-2021PL.csv oraz hospitalizacje_2018-2021PL_short.csv
+
+Dane zagregowane dla Polski
+
+## Plik hospitalizacje_2018-2021WW.csv
+
+Dane zagregowane na poziomie wojewodztw. Województwo `PL' zawiera dane dla PL
